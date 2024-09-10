@@ -1,4 +1,4 @@
-name = "my-worker"
+name = "my-worker-test1-<x>-'-name"
 type = "javascript"  # or "webpack" depending on your setup
 account_id = "468573d665d125bf3f12d12fad6d0edd"
 workers_dev = true
